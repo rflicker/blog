@@ -5,7 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-## List of latest posts
+## Liste der letzen Veröffentlichungen
 
 <ul class="posts">
   {% for post in site.posts %}

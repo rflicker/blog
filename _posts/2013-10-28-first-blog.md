@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "First Blog"
+title: "Erster Blogeintrag"
 description: ""
 category: ""
 tags: [intro]
 ---
 {% include JB/setup %}
 
-This is my first blog.
+Dies ist mein erster Blogeintrag.
 
-## Overview
-I created this blog to share my knownledge about smart home.
+## Übersicht
+Ich habe dieses Blog erstellt um mein Wissen zu Smart Homes zu teilen.
 
